@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "C:\\Users\\John\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32c3:UploadSpeed=115200,CDCOnBoot=cdc,CPUFreq=160,FlashFreq=80,FlashMode=qio,FlashSize=4M,PartitionScheme=default,DebugLevel=none,EraseFlash=none,JTAGAdapter=default,ZigbeeMode=default",
+  "hardwareFolders": "C:\\Users\\John\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.13,C:\\Users\\John\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.13",
+  "otherLibrariesFolders": "c:\\Users\\John\\Documents\\old arduino files\\libraries",
+  "sketchLocation": "C:\\Users\\John\\Documents\\old arduino files\\HW675_Wind_PanTilt_WiFi_OTA"
+}
