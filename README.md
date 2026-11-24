@@ -9,7 +9,11 @@ optional sonic wind speed and direction sensor. That optional sensor uses a modb
 adapter at both ends. The wind direction arrows are red for wind vane and blue for the sonic wind direction; they are at different heights on the pole, so 
 often read slightly different directions. The wind vane is much more sensitive to low wind speeds due to its low friction design.
 
+![Wind vane construction](photos/Construction.jpg)
 
+![Wind vane Bearing Cutaway](photos/Bearing Cutaway.jpg)
+
+![Finished vane](photos/Completed.jpg)
 
 
 
