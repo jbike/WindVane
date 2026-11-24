@@ -13,7 +13,7 @@ often read slightly different directions. The wind vane is much more sensitive t
 
 ![Bearing cutaway](photos/Bearing%20Cutaway.jpg)
 
-![Completed wind vane](photos/Completed.jpg)
+![Completed wind vane](photos/Complete.jpg)
 
 
 
