@@ -5,11 +5,15 @@ holding the wind vane and optional camera. The ESP32C3 has WiFi and creates a lo
 Additionally, new firmware can be uploaded via the web page if desired. A WiFi hotspot is also created if you want to connect directly.
 
 The display is 2.4" TFT SPI 240 x 320, microcontroller is a teensy 3.2. The wind rose has a pointer for the wind vane, and a separate pointer for an
-optional sonic wind speed and direction sensor. That optional sensor uses a modbus protocol, so needs a modbus adapter at both ends, similar to the wind vane that uses a rs 485
-adapter at both ends. The wind direction arrows are red for wind vane and blue for the sonic wind direction; they are at different heights on the pole, so 
-often read slightly different directions. The wind vane is much more sensitive to low wind speeds due to its low friction design.
+optional sonic wind speed and direction sensor. That optional sensor uses a modbus protocol, so needs a modbus adapter at both ends, similar to the wind vane that uses a rs 485 adapter at both ends. The wind direction arrows are red for wind vane and blue for the sonic wind direction; they are at different heights on the pole, so often read slightly different directions. 
 
+The wind vane is much more sensitive to low wind speeds due to its low friction design. I omitted the lower ball bearing because the metal could affect the nearby AS5600 sensor. I substituted a loose fitting teflon sleeve as a tiny bit of axial play makes no difference to the reading or to the top bearing. Top bearing should have no rubbing seals and no heavy grease, should be able to freely spin several revolutions when spun by hand. I removed the AS5600 from a larger board and installed it on a small adapter board to fit in the holder cup at the bottom of the bearing assembly. 
 
+![Wind vane construction](photos/Construction.jpg)
+
+![Bearing cutaway](photos/Bearing%20Cutaway.jpg)
+
+![Completed wind vane](photos/Complete.jpg)
 
 
 
