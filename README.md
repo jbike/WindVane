@@ -11,9 +11,9 @@ often read slightly different directions. The wind vane is much more sensitive t
 
 ![Wind vane construction](photos/Construction.jpg)
 
-![Wind vane Bearing Cutaway](photos/Bearing Cutaway.jpg)
+![Wind vane construction](photos/Bearing Cutaway.jpg)
 
-![Finished vane](photos/Completed.jpg)
+![Wind vane construction](photos/Completed.jpg)
 
 
 
