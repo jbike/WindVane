@@ -8,3 +8,9 @@ The display is 2.4" TFT SPI 240 x 320, microcontroller is a teensy 3.2. The wind
 optional sonic wind speed and direction sensor. That optional sensor uses a modbus protocol, so needs a modbus adapter at both ends, similar to the wind vane that uses a rs 485
 adapter at both ends. The wind direction arrows are red for wind vane and blue for the sonic wind direction; they are at different heights on the pole, so 
 often read slightly different directions. The wind vane is much more sensitive to low wind speeds due to its low friction design.
+
+![Assembled wind vane](photos/Bearing Cutaway.jpg)
+
+![Assembled wind vane](photos/Construction.jpg)
+
+![Assembled wind vane](photos/Completed.jpg)
