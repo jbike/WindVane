@@ -17,6 +17,8 @@ The wind vane is much more sensitive to low wind speeds due to its low friction 
 
 ![Phone screenshot](photos/Phone_Display.jpg)
 
+![Indoor Display](photos/Indoor_Display.jpg)
+
 ![Firmware update_](photos/Firmware_Update_Option.jpg)
 
 
